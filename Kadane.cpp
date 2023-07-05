@@ -1,6 +1,8 @@
 #include <bits/stdc++.H>
 using namespace std;
 
+//Kadene's algorithm is used to find the max sum of contiguous subarray in O(n) time complexity  
+
 int main(){
 int n; cin>>n;
 int arr[n];
